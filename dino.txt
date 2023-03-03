@@ -1,0 +1,5 @@
+
+dinossaurus
+
+ordem de comandos:
+1) no repo a ser usado digitar: 'git init'
